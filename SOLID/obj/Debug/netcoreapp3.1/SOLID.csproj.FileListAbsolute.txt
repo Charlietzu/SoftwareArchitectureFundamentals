@@ -1,0 +1,4 @@
+C:\Users\Caio\Documents\projetos\SoftwareArchitectureFundamentals\SOLID\obj\Debug\netcoreapp3.1\SOLID.csprojAssemblyReference.cache
+C:\Users\Caio\Documents\projetos\SoftwareArchitectureFundamentals\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfoInputs.cache
+C:\Users\Caio\Documents\projetos\SoftwareArchitectureFundamentals\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfo.cs
+C:\Users\Caio\Documents\projetos\SoftwareArchitectureFundamentals\SOLID\obj\Debug\netcoreapp3.1\SOLID.csproj.CoreCompileInputs.cache
