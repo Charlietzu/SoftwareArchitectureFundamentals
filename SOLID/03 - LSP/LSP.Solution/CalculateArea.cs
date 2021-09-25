@@ -15,7 +15,7 @@ namespace SOLID.LSP.Solution
             Console.ReadKey();
         }
 
-        public static void Calcular()
+        public static void Calculate()
         {
             Square quad = new Square(5, 5);
             Rectangle ret = new Rectangle(10, 5);
