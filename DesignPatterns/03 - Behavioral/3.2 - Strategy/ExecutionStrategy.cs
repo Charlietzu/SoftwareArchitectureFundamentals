@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace DesignPatterns
 {
-    public class StrategyExecution
+    public class ExecutionStrategy
     {
         public static void Execute()
         {

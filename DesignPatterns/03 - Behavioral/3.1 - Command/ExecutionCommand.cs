@@ -2,7 +2,7 @@
 
 namespace DesignPatterns
 {
-    public class CommandExecution
+    public class ExecutionCommand
     {
         public static void Execute()
         {
