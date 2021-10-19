@@ -40,8 +40,8 @@ namespace SOLID.SRP.Violation
                 cmd.ExecuteNonQuery();
             }
 
-            var mail = new MailMessage("company@company.com", Email);
-            var client = new SmtpClient
+            MailMessage mail = new MailMessage("company@company.com", Email);
+            SmtpClient client = new SmtpClient
             {
                 Port = 25,
                 DeliveryMethod = SmtpDeliveryMethod.Network,
